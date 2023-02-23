@@ -14,3 +14,9 @@ C in geeks https://www.geeksforgeeks.org/c-programming-language
 C Standard Library Reference: https://cplusplus.com/reference/clibrary/
 
 ![](images/c-standard-lib.png)
+
+## gcc Build Threads
+
+```bash
+gcc -o xxx -Wall -pthread xxx.c
+```
