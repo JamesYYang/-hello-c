@@ -9,6 +9,8 @@ C course on Geektime: https://github.com/Becavalier/geektime-c
 
 C in geeks https://www.geeksforgeeks.org/c-programming-language
 
+GNU C Coding Standard https://www.gnu.org/prep/standards/html_node/Writing-C.html
+
 ## C Standard Library
 
 C Standard Library Reference: https://cplusplus.com/reference/clibrary/
